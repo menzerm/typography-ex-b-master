@@ -1,0 +1,17 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+body {
+	font-family: 'Archivo Black', sans-serif;
+}
+
+h1 {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 130px;
+	text-align:center;
+}
